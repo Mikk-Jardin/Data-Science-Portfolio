@@ -1,7 +1,0 @@
-# Ignore main dataset
-data/complaints.csv
-data/complaints_cleaned.csv
-data/complaints.csv.zip
-
-# Ignore jupyter notebook checkpoints
-.ipynb_checkpoints
